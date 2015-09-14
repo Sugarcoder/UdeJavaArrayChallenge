@@ -5,6 +5,7 @@ import java.util.Scanner;
  * Created by Sugarcoder on 9/13/2015.
  */
 
+
 public class Main {
 
     private static Scanner scanner = new Scanner(System.in);
@@ -39,7 +40,6 @@ public class Main {
 
         return array;
     }
-
 
 
     public static void printArray(int[] array) {
